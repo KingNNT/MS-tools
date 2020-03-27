@@ -23,6 +23,7 @@ Cụ thể như sau:
 Khi máy tính của bạn, không được kết nối Internet, bạn nhập key vào, phần mềm sẽ trả lại cho bạn một Instalation ID (IID), sau đó bạn sẽ gọi điện thoại đến trung tâm hỗ trợ của MS yêu cầu kích hoạt. Nhân viên sẽ yêu cầu bạn đưa IID của bạn ra, và từ IID đó, bạn sẽ nhận lại được một Confimation ID (CID). Sau khi lấy được CID, bạn nhập lại nó vào phần mềm mà bạn đang kích hoạt dở để hoàn tất.
 
 **Note thêm một tẹo chỗ này**
+
 Như các bạn biết thì giá key các phần mềm của MS không hề rẻ, đâu đó vài ba trăm ngàn một key. Nên để giúp mọi người kích hoạt chính thống thì mình có share key hằng ngày trên Group [Technology Community](https://www.facebook.com/groups/Developer.KingNNT). Mọi người có thể tìm tại đó nhé
 
 ### Chức năng của Tool
