@@ -38,3 +38,6 @@ Như các bạn biết thì giá key các phần mềm của MS không hề rẻ
 Nếu bạn không muốn dùng Tool, bạn vẫn có thể Get CID bình thường bằng cách Inbox vào Page: [Developer King.NNT](https://www.facebook.com/Dev.KingNNT)
 
 Thời gian để để nhận CID trên Page cũng nhanh không kém Tool là mấy đâu, nên yên tâm nhé :3
+
+### Một vài hình ảnh của Tool
+![Tool Get CID](https://github.com/KingNNT/MS-Tools/blob/master/Get%20CID/Image/Image.png?raw=true)
