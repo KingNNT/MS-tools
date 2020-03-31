@@ -1,5 +1,6 @@
 # Tool Get CID
-
+#### Tạm ngừng phát triển tại phiên bản 0.0.0.5. Vui lòng chuyển qua [Microsoft Support Tools](https://github.com/KingNNT/MS-Tools) để sử dụng tiếp.
+---
 Xin chào mọi người ...
 
 Trong quá trình nghỉ dịch, có chút thời gian rảnh rỗi nên là mình cũng có làm một vài Tool hỗ trợ, cũng gọi là mới tập tành thử thách tẹo thôi, nên là thành ra Tool nó có hơi sida, code có hơi lởm, chưa tối ưu được hiệu năng.
