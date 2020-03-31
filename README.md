@@ -11,7 +11,7 @@ Hiện tại các tính năng mà **Microsoft Support Tools** có:
  1. Get CID
 
 ## Download
-- [Click Here](https://raw.githubusercontent.com/KingNNT/MS-Tools/master/MS-Support-Tools-v0.1.0.0.rar)
+- [Version 0.1.0.0](https://codeload.github.com/KingNNT/MS-Tools/zip/0.1.0.0)
 ---
 Mọi người có thể theo dõi thêm tại
 -  [Facebook](https://www.facebook.com/Kinggg.NNT/)
